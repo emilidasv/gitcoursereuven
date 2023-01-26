@@ -1,1 +1,3 @@
 this is file a that is commited in clone
+
+Here I do changes in clone2 < will commit them as well and then pull and push
