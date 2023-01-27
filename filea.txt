@@ -1,3 +1,5 @@
 this is file a that is commited in clone
 
 Here I do some changes in clone 1. I will commit them  and then push them 
+third change
+one more
